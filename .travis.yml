@@ -1,7 +1,7 @@
 language: java
 
 git:
-  depth: true
+  depth: false
 
 dist: trusty
 
